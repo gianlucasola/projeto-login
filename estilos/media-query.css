@@ -23,7 +23,6 @@ Desktops – 1025px — 1200px
         width: 40%;
         height: 100%;
         background-size: cover;
-        background-position: center center;
     }
 
     section#login > div#formulario{
