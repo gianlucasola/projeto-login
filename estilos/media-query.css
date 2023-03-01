@@ -12,6 +12,7 @@ Desktops – 1025px — 1200px
         background-image: linear-gradient(to top, #ece3b8, #f05d23);
         height: 100vh;
         width: 100vw;
+        overflow: hidden;
     }
     
     section#login{
