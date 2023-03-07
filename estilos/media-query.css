@@ -17,6 +17,7 @@ Desktops – 1025px — 1200px
     
     section#login{
         width: 80vw;
+        height: 305px;
     }   
 
     section#login > div#imagem{
@@ -54,6 +55,7 @@ Desktops – 1025px — 1200px
     
     section#login{
         width: 800px;
+        height: 325px;
     }
 
     section#login > div#imagem{
@@ -72,6 +74,7 @@ Desktops – 1025px — 1200px
     }
 
     div#formulario > p{
-        font-size: 1.2em;
+        font-size: 1em;
+        margin: 20px 0px;
     }
 }
